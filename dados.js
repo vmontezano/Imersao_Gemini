@@ -37,7 +37,7 @@ let filmes = [
    {
      titulo : "Dirty Harry",
      sinopse : "Um filme de ação que acompanha as aventuras do inspetor Harry Callahan, um policial durão e controverso que usa métodos pouco ortodoxos para combater o crime. O filme aborda temas como justiça, moralidade e o sistema legal.",
-     link : "https://www.imdb.com/title/tt0068445/"
+     link : "https://www.imdb.com/title/tt0066999/"
    }
 ];
 
